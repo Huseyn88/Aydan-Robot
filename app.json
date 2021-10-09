@@ -25,7 +25,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "HÜSEYN"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -37,7 +37,7 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001195375035"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
